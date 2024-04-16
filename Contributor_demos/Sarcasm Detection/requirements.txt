@@ -1,3 +1,12 @@
 ivy
 kaggle
 pandas
+matplotlib
+seaborn
+nltk
+wordcloud
+scipy
+scikit-learn
+tensorflow
+torch   # TODO: separate venv to avoid conflicts
+torchvision
