@@ -5,8 +5,10 @@ matplotlib
 seaborn
 nltk
 wordcloud
+gensim
 scipy
 scikit-learn
 tensorflow
+scikeras
 torch   # TODO: separate venv to avoid conflicts
 torchvision
